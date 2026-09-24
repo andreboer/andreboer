@@ -1,40 +1,35 @@
-![](https://komarev.com/ghpvc/?username=andreboers&color=006bed)
-
-
 ## Olá! Eu sou o André Boer 👋
 
-## Sobre mim
+Desenvolvedor **back-end** com **Java** e **Liferay**, cursando **Análise e Desenvolvimento de Sistemas**.
 
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas.
-- 🔭 Desenvolvedor Back-end.
+## Tecnologias
 
-## Stacks
+**Back-end**
 
-**Aplicações e Dados**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Liferay](https://img.shields.io/badge/Liferay-0B63CE?style=flat-square)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**Front-end**
 
-**Frameworks**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+**Ferramentas**
 
-**Ferramentas de desenvolvimento**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## Contato
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/andréboer-85a455321/)
+[![E-mail](https://img.shields.io/badge/E--mail-006BED?style=flat-square&logo=gmail&logoColor=white)](mailto:andre.lsantos@sptech.school)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreboers&show_icons=true&theme=dark) 
-
-## Fale comigo
-
-[![Linkedin](https://img.shields.io/badge/-Linkedin-gray?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-pires-85a455321/)](https://www.linkedin.com/in/andréboer-85a455321/)
-[![Gmail Badge](https://img.shields.io/badge/Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andre.lsantos@sptech.school)](mailto:andre.lsantos@sptech.school)
-[![GitHub](https://img.shields.io/github/followers/pedrohpiress?label=follow&style=social)](https://github.com/andreboers)
+<!-- O contador usa o nome de usuário antigo de propósito: a contagem de visitas fica salva nele. -->
+![Visitas](https://komarev.com/ghpvc/?username=andreboers&color=006bed&label=Visitas&style=flat-square)
